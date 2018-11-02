@@ -8,6 +8,7 @@ namespace Checkpoint4._0
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Best Movies Ever!");
+            Console.WriteLine("Uniqe random action movie name: Sudden Extremism!");
         }
     }
 }
